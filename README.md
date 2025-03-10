@@ -1,24 +1,22 @@
 # 🌟 Rohit Yadav - Web Developer & Tech Enthusiast
 
-![Profile Image](rohit.jpg)  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://yourportfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/rohit-yadav)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/rohit-yadav)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
 
 ---
 
 ## 🚀 About Me
-👋 Hi, I'm **Rohit Yadav**, a passionate **Web Developer & Tech Entrepreneur** currently pursuing **BCA (Bachelor of Computer Applications)**. I specialize in **full-stack web development**, **UI/UX design**, and **AI-driven web solutions**.  
+👋 Hi, I'm **Rohit Yadav**, a passionate **Web Developer & Tech Entrepreneur** currently pursuing **BCA (Bachelor of Computer Applications)**. I specialize in **full-stack web development**, **UI/UX design**, and **AI-driven web solutions**.
 
-💡 **Founder & CEO** of [**NexGenLab**](https://yourcompanywebsite.com) – A startup focused on **Web Development, AI/ML, and Digital Solutions**.  
+💡 **Founder & CEO** of [**NexGenLab**](https://yourcompanywebsite.com) – A startup focused on **Web Development, AI/ML, and Digital Solutions**.
 
 🌱 **Currently Learning**:  
 - **Advanced JavaScript & React.js** ⚛️  
 - **Machine Learning for Web Applications** 🤖  
 
-👀 **Looking for Open Source Contributions** in **Web & AI-related projects**.  
+👀 **Looking for Open Source Contributions** in **Web & AI-related projects**.
 
 ---
 
@@ -43,25 +41,25 @@
 ## 📌 Featured Projects
 
 ### 🚀 **1. Hostel/PG Rental Website**
-- **Tech Stack**: HTML, CSS, JavaScript, Firebase  
-- **Description**: A dynamic website for hostel & PG rentals with a user-friendly interface and real-time updates.  
-- **[🔗 Live Demo](https://yourprojectlink.com)** | **[📂 Source Code](https://github.com/rohit-yadav/hostel-rental)**  
+- **Tech Stack**: HTML, CSS, JavaScript, Firebase
+- **Description**: A dynamic website for hostel & PG rentals with a user-friendly interface and real-time updates.
+- **[🔗 Live Demo](https://yourprojectlink.com)** | **[📂 Source Code](https://github.com/rohit-yadav/hostel-rental)**
 
 ### 🌟 **2. Abhi Electronic - Business Website**
-- **Tech Stack**: React.js, Node.js, MongoDB  
-- **Description**: A modern business website for **Abhi Electronic**, including SEO & social media growth.  
-- **[🔗 Live Demo](https://yourprojectlink.com)** | **[📂 Source Code](https://github.com/rohit-yadav/abhi-electronic)**  
+- **Tech Stack**: React.js, Node.js, MongoDB
+- **Description**: A modern business website for **Abhi Electronic**, including SEO & social media growth.
+- **[🔗 Live Demo](https://yourprojectlink.com)** | **[📂 Source Code](https://github.com/rohit-yadav/abhi-electronic)**
 
 ### 📰 **3. Local News Agency Website (Journlist Anil Yadav)**
-- **Tech Stack**: HTML, CSS, JavaScript, WordPress  
-- **Description**: A complete **news website** managed by NexGenLab with **social media integration**.  
-- **[🔗 Live Demo](https://yourprojectlink.com)** | **[📂 Source Code](https://github.com/rohit-yadav/news-website)**  
+- **Tech Stack**: HTML, CSS, JavaScript, WordPress
+- **Description**: A complete **news website** managed by NexGenLab with **social media integration**.
+- **[🔗 Live Demo](https://yourprojectlink.com)** | **[📂 Source Code](https://github.com/rohit-yadav/news-website)**
 
 ---
 
 ## 📊 GitHub Stats & Contributions
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit-yadav&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-yadav&layout=compact&theme=tokyonight)  
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit-yadav&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-yadav&layout=compact&theme=tokyonight)
 
 ---
 
@@ -73,4 +71,4 @@
 
 ---
 
-🚀 **Let's Connect and Build Amazing Projects Together!** 🚀  
+🚀 **Let's Connect and Build Amazing Projects Together!** 🚀
